@@ -1,1 +1,1 @@
-# shoppingC
+This Shopping sample document. 
